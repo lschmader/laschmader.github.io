@@ -10,9 +10,9 @@ Here's a Table of Contents!
 
 |Page|Link|
 |:---:||:---:|
-|Introduction|[Introduction](http://127.0.0.1:4000/finalsite.github.io/jekyll/update/2024/12/10/introduction.html)|
-|Features|[Features](http://127.0.0.1:4000/finalsite.github.io/2024/12/10/features.html)|
-|Setup Guide|[Setup Guide](http://127.0.0.1:4000/finalsite.github.io/2024/12/10/setup-guide.html)|
-|Tips|[Tips](http://127.0.0.1:4000/finalsite.github.io/2024/12/10/tips.html)|
-|Example|[Example](http://127.0.0.1:4000/finalsite.github.io/2024/12/10/example.html)|
-|Frequently Asked Questions|[Frequently Asked Questions](http://127.0.0.1:4000/finalsite.github.io/2024/12/10/frequently-asked-questions.html)|
+|Introduction|[Introduction](http://127.0.0.1:4000/laschmader.github.io/jekyll/update/2024/12/10/introduction.html)|
+|Features|[Features](http://127.0.0.1:4000/laschmader.github.io/jekyll//update/2024/12/10/features.html)|
+|Setup Guide|[Setup Guide](http://127.0.0.1:4000/laschmader.github.io/jekyll/update/2024/12/10/setup-guide.html)|
+|Tips|[Tips](http://127.0.0.1:4000/laschmader.github.io/jekyll/update/2024/12/10/tips.html)|
+|Example|[Example](http://127.0.0.1:4000/laschmader.github.io/jekyll/update/2024/12/10/example.html)|
+|Frequently Asked Questions|[Frequently Asked Questions](http://127.0.0.1:4000/laschmader.github.io/jekyll/update/2024/12/10/frequently-asked-questions.html)|
